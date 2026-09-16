@@ -1,8 +1,8 @@
 # Hackathon Master List
 
-**Run counter:** 0
-**Last updated:** 15 September 2026, 23:36 IST
-**Consolidation:** Completed after the 5th report-producing run. The list below merges and deduplicates all hackathons reported in the timestamped Markdown reports by hackathon name + organizer + start date.
+**Run counter:** 1
+**Last updated:** 16 September 2026, 23:37 IST
+**Consolidation:** Next consolidation after the 5th report-producing run. The list below merges and deduplicates all hackathons reported in the timestamped Markdown reports by hackathon name + organizer + start date.
 
 ## Master List
 
@@ -45,6 +45,8 @@
 | 35 | ForgeHacks Online 2026 | ForgeHacks | 3 October 2026 | 15-09-26_23-36 |
 | 36 | ML Empowerment Build Challenge 3.0 | ML Empowerment Foundation | Not clearly published | 15-09-26_23-36 |
 | 37 | Hyperbloom October — UI/UX and Web Design | hyperbloom hacks | 5 October 2026 | 15-09-26_23-36 |
+| 38 | GitLab Hackathon — October 2026 | GitLab | 6 October 2026 | 16-09-26_23-37 |
+| 39 | AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon | Amazon Web Services | Open at scan time | 16-09-26_23-37 |
 
 ## Notes
 
