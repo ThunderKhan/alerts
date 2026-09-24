@@ -1,7 +1,7 @@
 # Hackathon Master List
 
-**Run counter:** 2
-**Last updated:** 24 September 2026, 19:25 IST
+**Run counter:** 3
+**Last updated:** 24 September 2026, 19:26 IST
 **Consolidation:** Next consolidation after the 5th report-producing run. The list below merges and deduplicates all hackathons reported in the timestamped Markdown reports by hackathon name + organizer + start date.
 
 ## Master List
@@ -48,6 +48,13 @@
 | 38 | GitLab Hackathon — October 2026 | GitLab | 6 October 2026 | 16-09-26_23-37 |
 | 39 | AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon | Amazon Web Services | Open at scan time | 16-09-26_23-37 |
 | 40 | Build With AI: Basics | Devpost, Inc. | 22 September 2026 | 24-09-26_19-25 |
+| 41 | Next Byte Hacks: V4 | Next Byte Hacks | Not clearly published | 24-09-26_19-26 |
+| 42 | LovHack Season 3 | Lovhack | 26 September 2026 | 24-09-26_19-26 |
+| 43 | WarriorHacks 2.0 | Westwood Computer Science Club | 28 September 2026 | 24-09-26_19-26 |
+| 44 | Multimodal AI Hackathon 2026 | KamandPrompt / Programming Club IIT Mandi / Augli.ai / PurpleRain Tech / LDV Labs | 30 September 2026 | 24-09-26_19-26 |
+| 45 | United Hackathons V1 | United Hackathons | 5 October 2026 | 24-09-26_19-26 |
+| 46 | HACK47: OFFGRID | Hack47 | 15 September 2026 | 24-09-26_19-26 |
+| 47 | Creator Colosseum: The Startup Showdown | Creator Colosseum | Not clearly published | 24-09-26_19-26 |
 
 ## Notes
 
