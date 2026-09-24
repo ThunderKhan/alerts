@@ -1,7 +1,7 @@
 # Hackathon Master List
 
-**Run counter:** 1
-**Last updated:** 16 September 2026, 23:37 IST
+**Run counter:** 2
+**Last updated:** 24 September 2026, 19:25 IST
 **Consolidation:** Next consolidation after the 5th report-producing run. The list below merges and deduplicates all hackathons reported in the timestamped Markdown reports by hackathon name + organizer + start date.
 
 ## Master List
@@ -15,7 +15,7 @@
 | 5 | Prometheus September AI Challenge | Prometheus CS / Prometheus | 29 August 2026 | 13-09-26_22-56 |
 | 6 | Prom Fall Classic | Prometheus CS | 31 August 2026 | 13-09-26_22-56 |
 | 7 | Beginner’s Paradise — FirstCommit | FirstCommit | Open at scan time | 13-09-26_22-56 |
-| 8 | GatewayHacks 2026 \| Software & AI | GatewayGS | 1 September 2026 | 13-09-26_22-56 |
+| 8 | GatewayHacks 2026 | GatewayGS | 1 September 2026 | 13-09-26_22-56 |
 | 9 | Shipaton 2026 | RevenueCat | 1 August 2026 | 13-09-26_22-56 |
 | 10 | IBM Bob 2.0 Hackathon | IBM × lablab.ai | 25 September 2026 | 13-09-26_22-56 |
 | 11 | AMD Developer Hackathon: ACT III | AMD × lablab.ai | 12 October 2026 | 13-09-26_22-56 |
@@ -47,6 +47,7 @@
 | 37 | Hyperbloom October — UI/UX and Web Design | hyperbloom hacks | 5 October 2026 | 15-09-26_23-36 |
 | 38 | GitLab Hackathon — October 2026 | GitLab | 6 October 2026 | 16-09-26_23-37 |
 | 39 | AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon | Amazon Web Services | Open at scan time | 16-09-26_23-37 |
+| 40 | Build With AI: Basics | Devpost, Inc. | 22 September 2026 | 24-09-26_19-25 |
 
 ## Notes
 
