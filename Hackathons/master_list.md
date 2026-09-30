@@ -1,8 +1,8 @@
 # Hackathon Master List
 
-**Run counter:** 4
-**Last updated:** 30 September 2026, 06:37 IST
-**Consolidation:** Next consolidation after the 5th report-producing run. The list below merges and deduplicates all hackathons reported in the timestamped Markdown reports by hackathon name + organizer + start date.
+**Run counter:** 0
+**Last updated:** 30 September 2026, 06:40 IST
+**Consolidation:** Refreshed after the 5th report-producing run. The list below merges and deduplicates all hackathons reported in the timestamped Markdown reports by hackathon name + organizer + start date.
 
 ## Master List
 
@@ -65,3 +65,5 @@
 
 - The previous report files remain the authoritative historical record for each event’s full details, dates, deadlines, eligibility, prizes, and caveats.
 - This consolidated list intentionally stores the deduplication key fields and first-report reference rather than duplicating every report’s full event table.
+
+| 53 | Crypto World’s Fair | Colosseum | 14 September 2026 | 30-09-26_06-40 |
