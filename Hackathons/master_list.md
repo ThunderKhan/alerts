@@ -1,7 +1,7 @@
 # Hackathon Master List
 
-**Run counter:** 3
-**Last updated:** 24 September 2026, 19:26 IST
+**Run counter:** 4
+**Last updated:** 30 September 2026, 06:37 IST
 **Consolidation:** Next consolidation after the 5th report-producing run. The list below merges and deduplicates all hackathons reported in the timestamped Markdown reports by hackathon name + organizer + start date.
 
 ## Master List
@@ -55,6 +55,11 @@
 | 45 | United Hackathons V1 | United Hackathons | 5 October 2026 | 24-09-26_19-26 |
 | 46 | HACK47: OFFGRID | Hack47 | 15 September 2026 | 24-09-26_19-26 |
 | 47 | Creator Colosseum: The Startup Showdown | Creator Colosseum | Not clearly published | 24-09-26_19-26 |
+| 48 | EvoHacks2026 | EvoHacks | 10 October 2026 | 30-09-26_06-37 |
+| 49 | MLAI Hackathon 2026 | Mạng Lưới AI / 23 AI Network member schools | Open at scan time | 30-09-26_06-37 |
+| 50 | AXION Hackathon | STAMPERS / Unstop | 11 October 2026 | 30-09-26_06-37 |
+| 51 | CodeHack India — National Level Hackathon | WeCodeCoders | 28 October 2026 | 30-09-26_06-37 |
+| 52 | HackCache ’26 | CachedInfo × Government College of Engineering and Technology, Jammu | 23 October 2026 | 30-09-26_06-37 |
 
 ## Notes
 
