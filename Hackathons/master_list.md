@@ -1,13 +1,13 @@
 # Hackathon Master List
 
-**Run counter:** 4
-**Last updated:** 30 October 2026, 23:52 IST
-**Consolidation:** Completed after the fifth successfully pushed report-producing run; all timestamped Hackathons Markdown reports merged and deduplicated by hackathon name + organizer + start date.
-**Reports consolidated:** 18  
-**Unique historical hackathons:** 115  
+**Run counter:** 0
+**Last updated:** 31 October 2026, 06:01 IST
+**Consolidation:** Completed after the fifth successfully pushed report-producing run. All timestamped Hackathons Markdown reports are represented, deduplicated by normalized hackathon name + organizer + start date; the pre-existing consolidated archive was retained.
+**Reports consolidated:** 23
+**Unique historical hackathons:** 174
 **Master-only legacy records retained:** 27
 
-**Run counter reconciliation (17 October 2026):** Three report-producing commits since the 9 October consolidation are counted: 09-10-26_06-08, 11-10-26_06-02 and 17-10-26_14-34. The unpublished reports for 10 and 12–16 October are not counted. One additional successful new-report commit (the 30 October scan) brings the counter to 4. The next successful new-report commit triggers consolidation.
+**Run counter reconciliation (31 October 2026):** The previous consolidation covered 18 reports and reset the counter to 0 on 9 October 2026. Five subsequent successful report commits (09-10-26_06-08, 11-10-26_06-02, 17-10-26_14-34, 30-10-26_23-52, 31-10-26_06-01) triggered this consolidation. The 115 pre-existing master records were preserved; 59 new distinct rows were merged; the counter was reset to **0** only after the fifth report had been successfully pushed. Reports from unpublished runs were not counted.
 
 ## Master List
 
@@ -128,10 +128,70 @@
 | 113 | CodeVerse India — National Level Hackathon | WeCodeCoders | 30 Oct | 08-10-26_06-02 |
 | 114 | Next Byte Hacks V5 | Next Byte Hacks | Registration open | 08-10-26_06-02 |
 | 115 | Life After Code (GitLab Transcend Hackathon) | GitLab | 5 Oct | 08-10-26_06-02 |
+| 116 | Finding the Next Signal | BITS Pilani, Hyderabad Campus | Online ideation underway → online final 25 Oct 2026 | 09-10-26_06-08 |
+| 117 | TechCircuit Hackathon | We Code Coders | 20–31 Oct 2026 (organizer); platform says through 1 Nov | 09-10-26_06-08 |
+| 118 | CodeStar 30 — National-Level Hackathon | We Code Coders | 25 Oct–5 Nov 2026 (organizer); platform says through 6 Nov | 09-10-26_06-08 |
+| 119 | DataOps Innovation Hackathon 2026 | Hack The Core | 2–7 Nov 2026 | 09-10-26_06-08 |
+| 120 | From Prompt to Performance | Mozark | Opened 8 Oct 2026 → end not separately published | 09-10-26_06-08 |
+| 121 | Airwallex Agentic Banking Hackathon | Airwallex × HackerEarth | 25 Oct–19 Nov 2026; submission 13 Nov | 09-10-26_06-08 |
+| 122 | InnovArt 2027: Art and Technology Hack Day | Binnovative / InnovArt | Projects open now → 3 Jan 2027 online presentations | 09-10-26_06-08 |
+| 123 | ML Challenge Hack4Hack 2026 | Hack4Hack | 22–27 Oct 2026 | 11-10-26_06-02 |
+| 124 | AgentX Hackathon 2026 | Hack4Hack | 31 Oct–2 Nov 2026 | 11-10-26_06-02 |
+| 125 | HackOdisha 6.0 | Webwiz, NIT Rourkela | 31 Oct–1 Nov 2026 | 11-10-26_06-02 |
+| 126 | Xylem Global Student Innovation Challenge 2026 | Xylem / BeMyApp | 28 Sep–20 Nov 2026 | 11-10-26_06-02 |
+| 127 | AI Builders Challenge — North America | BeMyApp / IBM SkillsBuild | 2 Nov–2 Dec 2026 | 11-10-26_06-02 |
+| 128 | BCH BLAZE 2026 | Bitcoin Cash Podcast / BLAZE team; hosted on DoraHacks | Online hacking 14–22 Nov 2026; streamed showcase 28 Nov | 17-10-26_14-34 |
+| 129 | India Agentic AI Security Hackathon | Secure AI Futures Lab (SAFL) | Already running: Aug 2026 → 31 Oct 2026 | 17-10-26_14-34 |
+| 130 | Slapjam #2 | Slapjam | 29 Oct 2026, 15:00 UTC → 31 Oct 2026, 15:00 UTC | 17-10-26_14-34 |
+| 131 | AI Browser Game Jam 5 | Focaccai | Already running: 17 Oct 2026, 03:00 UTC → 31 Oct 2026, 03:00 UTC | 17-10-26_14-34 |
+| 132 | LittleJS Jam 3 | Frank Force Games | Already running: 2 Oct 2026, 17:00 UTC → 2 Nov 2026, 18:00 UTC | 17-10-26_14-34 |
+| 133 | GDevelop BIG Game Jam #10 | GDevelop / HelperWesley | 6 Nov 2026, 19:00 UTC → 15 Nov 2026, 20:00 UTC | 17-10-26_14-34 |
+| 134 | LÖVE Jam 2026 [B-SIDE] | Keyslam / Pablo Mayobre | 6 Nov 2026, 10:00 UTC → 16 Nov 2026, 10:00 UTC | 17-10-26_14-34 |
+| 135 | Game Off 2026 | GitHub / Lee Reilly | 1 Nov 2026, 21:37 UTC → 1 Dec 2026, 21:37 UTC | 17-10-26_14-34 |
+| 136 | LaunchHacks V | LaunchHacks | 11–15 Dec 2026 | 17-10-26_14-34 |
+| 137 | HackTitan | Illinois Wesleyan University (IWU) | 2–4 Feb 2027 | 17-10-26_14-34 |
+| 138 | Flip the Switch Hackathon | WeMakeDevs × DevTools Academy × Switch AI | 4 Nov, 12:01 AM → 7 Nov 2026, 11:59 PM IST | 30-10-26_23-52 |
+| 139 | Ctrl+V Hackathon | ADHAYAN | 6–10 Nov 2026 | 30-10-26_23-52 |
+| 140 | CodeZen India 2026 — National Hackathon | WeCodeCoders | 14–26 Nov 2026 | 30-10-26_23-52 |
+| 141 | UGREEN Hackathon 2026 on AI NAS | UGREEN; hosted on Devpost | Already running: 22 Oct → 30 Nov 2026 finalists' submission; awards around 6 Dec | 30-10-26_23-52 |
+| 142 | Next Horizon 2026 | International Enterprise & Innovation Society × Institution of Engineers and Scientists | 28 Nov 2026, 9:00 AM EST → 30 Nov 2026, 9:00 AM EST | 30-10-26_23-52 |
+| 143 | Dakar Bitcoin Hack by BTrust | Dakar Bitcoin Days / BTrust community | Already running: 26 Oct → 20 Nov 2026 | 30-10-26_23-52 |
+| 144 | Orbix — 48-Hour Global Open Innovation Hackathon | Makers Need More (MnM) | 21–23 Nov 2026 | 30-10-26_23-52 |
+| 145 | Out of Bounds — Web Game Development Hackathon | Code Variant | Idea round through 21 Nov; online 12-hour final build **29 Nov 2026, 9 AM–9 PM IST** | 30-10-26_23-52 |
+| 146 | Arthaton 2026 | Arthaton organizers | Already open; month-long remote build → 22 Nov 2026 | 30-10-26_23-52 |
+| 147 | OBSCURA: Satellite AI Research Challenge | BTAJI Crew | Already running: 24 Oct → 24 Nov 2026; Devpost write-up window 18–24 Nov | 30-10-26_23-52 |
+| 148 | Agents that act. Systems that answer. — Virtual Agentic-AI Hackathon | Studentchakra, with Priyanshu Agarwal | 28–30 Nov 2026 | 30-10-26_23-52 |
+| 149 | Global AI Builder’s Challenge | Refactor The World | 21 Nov → 28 Nov 2026 | 30-10-26_23-52 |
+| 150 | CSC Winter Sparkathon | The Webb Schools Computer Science Club (CSC) | 29 Oct → 29 Nov 2026 | 30-10-26_23-52 |
+| 151 | Codegeist 2026: Build with context. Ship with confidence. | Atlassian | Already running: 27 Oct → 22 Dec 2026 | 30-10-26_23-52 |
+| 152 | AI for Human Impact: A Global BASIS Hackathon | BASIS Independent Silicon Valley × Stanford NNEA; BASIS student organizers | **6–12 Feb 2027** build week; judging 13–19 Feb | 30-10-26_23-52 |
+| 153 | Mindblown Cup #1: Arcade — Weekly Solo Game Jam | techtoch / Mindblown | 24 Oct–7 Nov 2026 (ET) | 31-10-26_06-01 |
+| 154 | Mascky Jam (Mascot Horror) | Maquity Studios | 5 Nov, 4:30 PM → 7 Nov 2026, 4:30 PM IST | 31-10-26_06-01 |
+| 155 | CodePuneThinkers Hackathon — Hack With Pune | HackWithPune | 7 Nov, 10:00 AM → 8 Nov 2026, 10:00 PM IST | 31-10-26_06-01 |
+| 156 | AI for Lawyers Hackathon | HackIndia | 2 Nov, 9:17 AM → 1 Dec 2026, 9:18 AM IST | 31-10-26_06-01 |
+| 157 | CodeNova India 2026 — National Hackathon | WeCodeCoders | 11–22 Nov 2026 | 31-10-26_06-01 |
+| 158 | Catalyst — Solo AI Hackathon | Makers Need More (MnM) | 15 Nov 2026, 9:00 AM–8:00 PM IST (7-hour build plus finale) | 31-10-26_06-01 |
+| 159 | International Hackathon 5.0 — 2026 | Kalaignar Karunanidhi Institute of Technology (KIT) × ECLearnix EdTech | Registration from 17 Oct; presentations 14 Nov and 26 Dec 2026; results late Dec | 31-10-26_06-01 |
+| 160 | LaunchPad Hacks | Hack4TodayOrg | 16 Oct–20 Nov 2026; online judging 21–25 Nov | 31-10-26_06-01 |
+| 161 | AccessED Hacks | AccessEDnpo | 17 Oct–20 Nov 2026; online judging 21–22 Nov | 31-10-26_06-01 |
+| 162 | STEM2Connect AI Hackathon | STEM2Connect | 11 Oct–21 Nov 2026; remote demo day 24 Nov | 31-10-26_06-01 |
+| 163 | SafeSpace Hacks | SafeSpace | 17 Oct–22 Nov 2026; online judging 23–24 Nov | 31-10-26_06-01 |
+| 164 | Nexconn Build Challenge 2026 | Nexconn × Reskilll | 23 Oct–22 Nov 2026; results 1 Dec | 31-10-26_06-01 |
+| 165 | NorCal Hacks 27 | Lynbrook Engineering Club | 12 Nov, 3:00 PM → 15 Nov 2026, 8:00 AM Pacific | 31-10-26_06-01 |
+| 166 | NYC STEM 2026 Virtual Hackathon | New Youth Conference / NYC STEM | 15 Oct–15 Nov 2026 build; submissions until 1 Dec | 31-10-26_06-01 |
+| 167 | Build Your First AI App | Yasir Insights | 27 Oct–27 Nov 2026; judging 28 Nov–6 Dec | 31-10-26_06-01 |
+| 168 | #BuildHybridAI 2026 | Google (Firebase), managed by Devpost | 9–30 Nov 2026; judging 9–16 Dec | 31-10-26_06-01 |
+| 169 | Kiroween 2026 | Kiro / AWS, managed by Devpost | 30 Oct–4 Dec 2026 | 31-10-26_06-01 |
+| 170 | SpectoV National Hackathon (SNH'26) | SpectoV | 1–6 Dec 2026; judging 7–13 Dec; winners 14 Dec | 31-10-26_06-01 |
+| 171 | Rack It Up 2026 | Rack'Em / Karma Enterprises | 11 Dec, 6:00 PM → 13 Dec 2026, 6:00 PM IST; remote Zoom final 14 Dec | 31-10-26_06-01 |
+| 172 | AI BuildFest 2026 | Frontend Arena × Adaption | 10–12 Dec 2026 (48-hour online sprint) | 31-10-26_06-01 |
+| 173 | FUTUREHACK '26 | Hack The Future | 15–17 Dec 2026 (organizer calls it 36h but posted build times span 48h) | 31-10-26_06-01 |
+| 174 | Build Beyond Hackathon (OSC, 2027) | OSC | 1–15 Mar 2027 | 31-10-26_06-01 |
 
 ## Notes
 
-- This is a historical archive, **not** a live availability list. Consult each timestamped report and the official event link for deadlines, eligibility, prizes and verification caveats.
-- Deduplication uses normalized name, organizer and start date. A missing start date is treated as an unknown value for the same named event, rather than a separate edition.
-- Records retained from the previous master list without a corresponding report row are preserved to prevent historical data loss.
-- The run counter was reset only after the fifth report was committed successfully.
+- This master is a **historical deduplication archive**, not a list of currently open events. Refer to each timestamped report and the linked official event page for registration dates, eligibility, prizes, format and verification caveats.
+- Deduplication compares normalized name, organizer and start date. A missing or vague start date is treated as unknown for the same named organizer event, rather than a separate edition. Separate events with different organizers or genuinely different start dates remain distinct.
+- All 174 unique historical entries are retained; 27 legacy-only entries from the earlier master remain represented.
+- Consolidation is incremental but complete: the prior master already represented the first 18 committed reports; the remaining five reports have now been merged into it. The 23 original report files are preserved for auditability.
+- The run counter increments only when a new report is successfully committed, and resets only on a successful fifth-run consolidation.
