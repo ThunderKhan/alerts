@@ -1,19 +1,13 @@
 # Hackathon Master List
 
-**Run counter:** 4
-**Last updated:** 4 November 2026, 06:04 IST
-**Consolidation:** Last completed on 31 October 2026 after five successfully pushed report-producing runs; those 23 reports were merged and deduplicated by normalized hackathon name + organizer + start date. New reports are queued for the next five-run consolidation.
-**Reports consolidated:** 23
-**Unique historical hackathons:** 174
+**Run counter:** 0
+**Last updated:** 5 November 2026, 06:04 IST
+**Consolidation:** Completed after the fifth successful post-31-October report-producing run. The previous 23 reports and five new reports (1–5 November) are now represented in the archive, deduplicated by normalized hackathon name + organizer + start date.
+**Reports consolidated:** 28
+**Unique historical hackathons:** 237
 **Master-only legacy records retained:** 27
 
-**Run counter reconciliation (31 October 2026):** The previous consolidation covered 18 reports and reset the counter to 0 on 9 October 2026. Five subsequent successful report commits (09-10-26_06-08, 11-10-26_06-02, 17-10-26_14-34, 30-10-26_23-52, 31-10-26_06-01) triggered this consolidation. The 115 pre-existing master records were preserved; 59 new distinct rows were merged; the counter was reset to **0** only after the fifth report had been successfully pushed. Reports from unpublished runs were not counted.
-
-**Post-consolidation counter (1 November 2026):** The new report `Remote_Hackathons_01-11-26_06-07.md` was successfully pushed with 21 new entries, advancing the counter from 0 to **1**. These entries remain in the timestamped report and will be merged into this archive at the next fifth report-producing run; historical unique total remains 174 until then.
-
-**Post-consolidation counter (2 November 2026):** The new report `Remote_Hackathons_02-11-26_06-00.md` was successfully pushed with 25 new entries, advancing the counter from 1 to **2**. The 1 and 2 November reports are queued for consolidation after three further successful report-producing runs. No historical rows have been added to the master table yet.
-
-**Post-consolidation counter (3 November 2026):** The new report `Remote_Hackathons_03-11-26_06-08.md` was successfully pushed with 16 newly verified entries, advancing the counter from 2 to **3**. The 1, 2 and 3 November reports are queued for consolidation after two further successful report-producing runs. No historical rows have been added to the master table yet.
+**Run counter reconciliation (5 November 2026):** The previous consolidation was on 31 October with 174 historical records. Five subsequently committed reports (01-11-26_06-07, 02-11-26_06-00, 03-11-26_06-08, 04-11-26_06-04 and 05-11-26_06-04) were merged; 63 new unique records were appended and 1 duplicate rows skipped. The run counter was reset from 4 to **0** after the fifth report was successfully committed. Existing master-only legacy records were preserved. All original timestamped reports remain in the repository.
 
 ## Master List
 
@@ -193,11 +187,73 @@
 | 172 | AI BuildFest 2026 | Frontend Arena × Adaption | 10–12 Dec 2026 (48-hour online sprint) | 31-10-26_06-01 |
 | 173 | FUTUREHACK '26 | Hack The Future | 15–17 Dec 2026 (organizer calls it 36h but posted build times span 48h) | 31-10-26_06-01 |
 | 174 | Build Beyond Hackathon (OSC, 2027) | OSC | 1–15 Mar 2027 | 31-10-26_06-01 |
+| 175 | thatgamejam #02 | thatgamecompany | 24 Oct | 01-11-26_06-07 |
+| 176 | Bevy Jam #8 | Bevy community / Bevy Foundation | 31 Oct | 01-11-26_06-07 |
+| 177 | ML Gradient Wars 2026 | Hack4Hack | 13 Nov, 10:00 AM | 01-11-26_06-07 |
+| 178 | Innovate — Online Hackathon 2026 | Aveeranex (OPC) Private Limited | 14 Nov (idea round) | 01-11-26_06-07 |
+| 179 | Official 2026 Unity Game Jam | Unity | 5 Nov, 18:30 UTC | 01-11-26_06-07 |
+| 180 | 2026 Epic AI MegaJam | Epic Games | 12 Nov, 12:00 AM EST | 01-11-26_06-07 |
+| 181 | GN! Jam #18 (Autumn 2026) | Games Now! / Aalto University | 13 Nov, 17:00 EET | 01-11-26_06-07 |
+| 182 | Hackday 2026 | TrishulX | 14 Nov, 5:00 PM | 01-11-26_06-07 |
+| 183 | Global AI Hackathon 2026 (Geek Room) | Geek Room; HackCulture event platform | 9 Oct | 01-11-26_06-07 |
+| 184 | IceHacks 2026 | CodeStarters | 8 Nov, 7:00 PM PST | 01-11-26_06-07 |
+| 185 | BuildArena S02 — Human AI Engineering Challenge | BuildArena (Kaggle community competition) | 14 Sep | 01-11-26_06-07 |
+| 186 | CoAfina 2026 | LA-CoNGA Physics / RedCLARA and partners | 27 | 01-11-26_06-07 |
+| 187 | GAMERella Game Jam 2026 | GAMERella | 14 Nov, 10:00 AM | 01-11-26_06-07 |
+| 188 | 2027 WFEO Hackathon on Sustainable Transport Engineering | World Federation of Engineering Organizations (WFEO) | 20 Nov | 01-11-26_06-07 |
+| 189 | BUILD 4 ALL | CS4ALL nonprofit | 5 Dec, 9:00 AM PST | 01-11-26_06-07 |
+| 190 | ForgeClan November Hackathon 2026 | ForgeClan | 1 | 01-11-26_06-07 |
+| 191 | Pixel Forge MEGA Jam 2026 | Pixel Forge Jam (Hack Club fiscally sponsored community) | 28 Nov | 01-11-26_06-07 |
+| 192 | Micro Jam 070: Circus | Micro Jam / tobias | 28 Nov, 01:00 UTC | 01-11-26_06-07 |
+| 193 | Uplifting Game Jam #10 — December 2026 | LightBearSoftware | 1 Dec, 18:00 UTC | 01-11-26_06-07 |
+| 194 | The Eye Jam III: Folk Horror | SeeOne | 3 Dec, 18:30 UTC | 01-11-26_06-07 |
+| 195 | Agentware: Build an Agent You Can Walk Away From | Hackathon Raptors | 27 Nov 18:00 UTC | 02-11-26_06-00 |
+| 196 | ZIVOX AI Innovation Challenge 2026 | ZIVOX | 15 Nov 19:00 IST | 02-11-26_06-00 |
+| 197 | Zoud GameLab — Make FinLit Fun | Zoud (UAE National Financial Wellbeing Initiative) × Global Game Jam | 15 Oct | 02-11-26_06-00 |
+| 198 | GenHacks | Shail & Sharaf | 1 Nov | 02-11-26_06-00 |
+| 199 | Hack Era 2.0 | Erazone | Registration open; build-phase start/end not published | 02-11-26_06-00 |
+| 200 | ML Empowerment Build Challenge 4.0 | ML Empowerment Foundation | 1 Nov | 02-11-26_06-00 |
+| 201 | AgentRush USA 2026 | Hack4Hack | 1 Nov | 02-11-26_06-00 |
+| 202 | Model Mayhem USA 2026 | Hack4Hack | 29 Nov | 02-11-26_06-00 |
+| 203 | THE LOST PS2 JAM | RUNE LABS (YAGER) | 30 Oct | 02-11-26_06-00 |
+| 204 | Hand Crafted Jam | Dylan Browne | 12 Nov 05:00 UTC | 02-11-26_06-00 |
+| 205 | Micro Jam 069: Halloween | Micro Jam (tobias and SeeOne) | 14 Nov 01:00 UTC | 02-11-26_06-00 |
+| 206 | Ultimate AI-Powered Game Jam #7 | michyo | 13 Nov 12:00 UTC | 02-11-26_06-00 |
+| 207 | The MFG Gambler's Jam | RetroCrow × Hack Club | 5 Dec 23:00 UTC | 02-11-26_06-00 |
+| 208 | ShroomJam 2026 | PotaJoe / Vinesauce community | 7 Nov 01:00 UTC | 02-11-26_06-00 |
+| 209 | Godot Wild Jam #99 | Godot Wild Jam community | 13 Nov 21:00 UTC | 02-11-26_06-00 |
+| 210 | Godot Wild Jam #100 | Godot Wild Jam community | 11 Dec 21:00 UTC | 02-11-26_06-00 |
+| 211 | Pizza Jam (Pizza Prize!) | ComputerJames | 6 Nov 19:00 UTC | 02-11-26_06-00 |
+| 212 | 3x3x3 Jam | Macrow | 30 Nov 22:00 UTC | 02-11-26_06-00 |
+| 213 | GameDev.tv Holiday Jam 2026 | GameDev.tv | 4 Dec 22:00 UTC | 02-11-26_06-00 |
+| 214 | 20 Games Challenge — Autumn Jam 2026 | Fictional × SDGGames / 20 Games Challenge | 5 Nov 13:00 UTC | 02-11-26_06-00 |
+| 215 | Craftpix Indie Jam #2-2026 | Craftpix | 3 Dec 17:00 UTC | 02-11-26_06-00 |
+| 216 | Mini Jam 223: Construction | Mini Jam / ZahranW | 6 Nov 04:00 UTC | 02-11-26_06-00 |
+| 217 | Metroidvania Month Finale | Falcon Nova | 16 Nov 03:00 UTC | 02-11-26_06-00 |
+| 218 | GDKO 2027 — Round 1 | Xanderwood | 1 Jan 00:00 UTC | 02-11-26_06-00 |
+| 219 | Spooky Jam 2026 | Gamedev GBG × SKIP! / Natasha Bianca Mangan | 6 Nov 16:30 UTC | 02-11-26_06-00 |
+| 220 | QNX Global Hackathon | QNX / BlackBerry Ltd; Devpost | 2 Nov | 03-11-26_06-08 |
+| 221 | AWS MSP AI Hackathon | Amazon Web Services (AWS); Devpost | 2 Nov | 03-11-26_06-08 |
+| 222 | Hack4Hack Crew Hiring Challenge 2026 | Hack4Hack | 1 | 03-11-26_06-08 |
+| 223 | Build With Talent S1 — Hiring Hackathon (Enginow registration) | Enginow | Organizer window 7 Sep | 03-11-26_06-08 |
+| 224 | CIVIC Hack 2026 | Future Cities Institute, University of Waterloo | 12 Nov, 6 PM ET | 03-11-26_06-08 |
+| 225 | Global Virtual Hackathon 2026 | Canadian International School, Singapore | 19 | 03-11-26_06-08 |
+| 226 | Veritas AI International High School Hackathon | Veritas AI / Lumiere Education | 14 | 03-11-26_06-08 |
+| 227 | 20 Second Game Jam 2026 | Akzidenz × xenobrain × marc | 23 Oct | 03-11-26_06-08 |
+| 228 | Autumn Lisp Game Jam 2026 | technomancy × David Thompson | 30 Oct | 03-11-26_06-08 |
+| 229 | ThinkyCon Jam 2026 | Thinky Games | 28 Oct | 03-11-26_06-08 |
+| 230 | PJP Game Jam 2026-2 | Post Jam Productions / RedTeapot × Kira | 13 Nov, 00:59:59 UTC | 03-11-26_06-08 |
+| 231 | PROCJAM — The Procedural Generation Jam (2026 edition) | PROCJAM | 4 Dec, 23:59:59 UTC | 03-11-26_06-08 |
+| 232 | Week Sauce (November 2026) | Mystery Coconut / Week Sauce | 1 Nov, 07:00 UTC | 03-11-26_06-08 |
+| 233 | LSDJAM 2026 | Figglewatts / LSD Revamped community | 21 Oct 2026, 23:00 UTC | 03-11-26_06-08 |
+| 234 | #bitsyjam 100 | adam le doux / Bitsy community | 15 Oct 2026, 07:00 UTC | 03-11-26_06-08 |
+| 235 | NovemBird 2026 | NovemJam / JamieDerg × Akiba × Loudo and collaborators | 31 Oct, 10:00 UTC | 03-11-26_06-08 |
+| 236 | Agentic AI Hackathon (Product Space) | Product Space | 14 Nov 2026 | 04-11-26_06-04 |
+| 237 | DATANOVA 2026 GLOBAL DATA-THON | DataNova | 10 Oct | 05-11-26_06-04 |
 
 ## Notes
 
-- This master is a **historical deduplication archive**, not a list of currently open events. Refer to each timestamped report and the linked official event page for registration dates, eligibility, prizes, format and verification caveats.
-- Deduplication compares normalized name, organizer and start date. A missing or vague start date is treated as unknown for the same named organizer event, rather than a separate edition. Separate events with different organizers or genuinely different start dates remain distinct.
-- All 174 unique historical entries are retained; 27 legacy-only entries from the earlier master remain represented.
-- Consolidation is incremental but complete: the prior master already represented the first 18 committed reports; the remaining five reports have now been merged into it. The 23 original report files are preserved for auditability.
-- The run counter increments only when a new report is successfully committed, and resets only on a successful fifth-run consolidation.
+- Historical archive, **not** a current-availability list; confirm deadlines and eligibility at the official event links in timestamped reports.
+- Deduplication key: normalized name + organizer + start date; differing editions remain separate when their starts differ.
+- The 27 pre-existing master-only legacy records were retained to avoid losing historical discoveries.
+- The counter advances only after a newly created report is successfully committed, and resets to zero upon five-run consolidation.
