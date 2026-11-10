@@ -1,10 +1,10 @@
 # Hackathon Master List
 
-**Run counter:** 4
-**Last updated:** 9 November 2026, 06:01 IST
-**Consolidation:** Completed after the fifth successful post-31-October report-producing run. The previous 23 reports and five new reports (1–5 November) are now represented in the archive, deduplicated by normalized hackathon name + organizer + start date.
-**Reports consolidated:** 28
-**Unique historical hackathons:** 237
+**Run counter:** 0
+**Last updated:** 10 November 2026, 06:01 IST
+**Consolidation:** Completed again on 10 November after five subsequent report-producing runs (6–10 November). The previous 23 reports and five new reports (1–5 November) are now represented in the archive, deduplicated by normalized hackathon name + organizer + start date.
+**Reports consolidated:** 33
+**Unique historical hackathons:** 251
 **Master-only legacy records retained:** 27
 
 **Run counter reconciliation (5 November 2026):** The previous consolidation was on 31 October with 174 historical records. Five subsequently committed reports (01-11-26_06-07, 02-11-26_06-00, 03-11-26_06-08, 04-11-26_06-04 and 05-11-26_06-04) were merged; 63 new unique records were appended and 1 duplicate rows skipped. The run counter was reset from 4 to **0** after the fifth report was successfully committed. Existing master-only legacy records were preserved. All original timestamped reports remain in the repository.
@@ -252,6 +252,21 @@
 | 235 | NovemBird 2026 | NovemJam / JamieDerg × Akiba × Loudo and collaborators | 31 Oct, 10:00 UTC | 03-11-26_06-08 |
 | 236 | Agentic AI Hackathon (Product Space) | Product Space | 14 Nov 2026 | 04-11-26_06-04 |
 | 237 | DATANOVA 2026 GLOBAL DATA-THON | DataNova | 10 Oct | 05-11-26_06-04 |
+
+| 238 | AI OpenBuild | AI OpenBuild | 5 Nov – 10 Dec 2026; judging 11–15 Dec; results 17 Dec | 06-11-26_06-04 |
+| 239 | GMT Jam #1 | Gaming Mantralaya / Pipe Runner Corp | 21 Nov 2026, 00:00 CEST → 30 Nov 2026, 23:59 CEST (organizer's written schedule); itch.io submission widget displays 20 Nov 23:00 → 30 Nov 22:59, likely UTC | 07-11-26_06-03 |
+| 240 | SLAY HACKS 2026 | SLAY HACKS Student Community / cite & slayy | 7 Nov → 7 Dec 2026 | 08-11-26_06-02 |
+| 241 | FLARE — Open Innovation Rapid Hackathon | Hoollow | 6 Nov → 29 Nov 2026 (online round; stage schedule) | 08-11-26_06-02 |
+| 242 | Tiny Loop Jam 2026 | Drozd Studios | 20 Nov 2026, 18:00 UTC → 29 Nov 2026, 18:00 UTC; ratings to 6 Dec | 08-11-26_06-02 |
+| 243 | Bezi Jam 15 — UNREAL | Bezi | 27 Nov 2026, 07:00 → 1 Dec 2026, 06:59:59 (itch.io platform timestamp; timezone not explicitly stated in header) | 08-11-26_06-02 |
+| 244 | Outta This World Sound Jam #1 | Outta This World Audio | 13 Nov 2026, 16:00 UTC → 16 Nov 2026, 16:00 UTC | 09-11-26_06-01 |
+| 245 | Apex Horror 2026 Game Jam | Apex Games | 18 Oct → 30 Nov 2026 (itch.io submission timestamp: 1 Dec 2026, 01:00; timezone not explicitly identified) | 09-11-26_06-01 |
+| 246 | Game Jam 95 | HolySlav564 | 20 Nov → 4 Dec 2026 (itch.io lists 20 Nov 16:00 → 4 Dec 18:00; timezone unspecified) | 09-11-26_06-01 |
+| 247 | Wrapped Up 2026 | t0m_ok | 4 Dec → 20 Dec 2026 (itch.io lists 4 Dec 18:00 → 20 Dec 23:59; timezone unspecified) | 09-11-26_06-01 |
+| 248 | HackIndia Originals — FIN//NEXT 2027 | HackIndia Originals / HackIndia | 18 Jan 2027, 09:00 IST → 28 Feb 2027, 09:00 IST | 10-11-26_06-01 |
+| 249 | Global AI Builder’s Challenge | Refactor The World | 21 Nov 2026, 00:00 PST → 28 Nov 2026, 15:00 PST | 10-11-26_06-01 |
+| 250 | ML Empowerment Build Challenge 4.0 | ML Empowerment Foundation | 1 Nov 2026 → 1 Dec 2026 | 10-11-26_06-01 |
+| 251 | Build Your First AI App | Yasir Insights | 27 Oct 2026 → 27 Nov 2026, 17:00 EST | 10-11-26_06-01 |
 
 ## Notes
 
