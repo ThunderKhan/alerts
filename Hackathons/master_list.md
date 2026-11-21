@@ -1,7 +1,7 @@
 # Hackathon Master List
 
-**Run counter:** 3
-**Last updated:** 13 November 2026, 06:00 IST
+**Run counter:** 4
+**Last updated:** 21 November 2026, 06:03 IST
 **Consolidation:** Completed again on 10 November after five subsequent report-producing runs (6–10 November). The previous 23 reports and five new reports (1–5 November) are now represented in the archive, deduplicated by normalized hackathon name + organizer + start date.
 **Reports consolidated:** 33
 **Unique historical hackathons:** 251
@@ -12,7 +12,7 @@
 **Post-consolidation report count:** 2 (06-11-26_06-04 and 07-11-26_06-03); pending next five-run merge. Historical unique count remains 237 until consolidation.
 
 
-**New reports pending next consolidation:** 2 (11-11-26_06-01: 7 events; 12-11-26_06-02: 3 events). Historical unique count stays 251 until the next five-report consolidation.
+**New reports pending next consolidation:** 4 (11-11-26_06-01: 7 events; 12-11-26_06-02: 3 events; 13-11-26_06-00: 2 events; 21-11-26_06-03: 2 events). Historical unique count stays 251 until the next five-report consolidation.
 
 ## Master List
 
